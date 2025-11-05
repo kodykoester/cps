@@ -3,7 +3,7 @@ Helpful command line [commands, prompts, scripts] I've used in the past.
 
 
 
-### Prompt for changing all media folders names from **Home Alone (1990)** to **home_alone_1990**
+### Prompt for changing all file names in a directory from **Home Alone (1990)** to **home_alone_1990**
 
 ```bash
 for f in *; do
